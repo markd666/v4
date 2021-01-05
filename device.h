@@ -3,4 +3,6 @@
 
 int device;
 
+void addToDevice(); 
+
 #endif // _DEVICE_H
