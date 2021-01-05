@@ -2,3 +2,7 @@
 /bazel-out/*
 /bazel-testlogs/*
 /bazel-v/*
+bazel-bin
+bazel-out
+bazel-testlogs
+bazel-v
