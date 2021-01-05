@@ -1,8 +1,13 @@
 #ifndef _DEVICE_H
 #define _DEVICE_H
 
-int device;
+namespace v4{
+
+
+extern int device;
 
 void addToDevice(); 
 
+
+} //namespace v4
 #endif // _DEVICE_H
